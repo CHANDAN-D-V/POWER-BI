@@ -49,7 +49,7 @@ Snap of new Calendar Table ,
 <img width="127" height="527" alt="image" src="https://github.com/user-attachments/assets/5bf7e4a1-f902-4d30-98bb-85e73a59bbaf" />
 
 
-- Step 15 : A new calculated columns were added to the new calendar table
+- Step 17 : A new calculated columns were added to the new calendar table
 
 (a). Year Following DAX expression was written,
 
@@ -71,8 +71,10 @@ Snap of all the columns ,
 
 <img width="491" height="560" alt="image" src="https://github.com/user-attachments/assets/b7077ec8-d702-4b60-aa79-6c7af8fe0967" />
 
+- Step 18 : In the Model View , connected the above Calendar Table ( Dimension Table )  to the Main Table ( Fact Table ) through Data-Modeling .
 
-- Step 16 : The Following measures were created in a new table named Metrics .
+
+- Step 19 : The Following measures were created in a new table named Metrics .
 
 (a) BEST SELLING PRODUCT 
 <img width="916" height="48" alt="image" src="https://github.com/user-attachments/assets/2674911a-c7ba-4e20-b2f3-8847a369d93f" />
@@ -156,7 +158,7 @@ Lets take a look at our customized visual,
 <img width="312" height="182" alt="image" src="https://github.com/user-attachments/assets/0f1ab2f3-dfbf-4a94-b08e-6ed82bee5439" />
 
 
-- Step 18 : The report was then published to Power BI Service.
+- Step 20 : The Dashboard report was created with the help of the above measures and then published to Power BI Service.
 
 
 # Publishing to Power-Bi-Service 
